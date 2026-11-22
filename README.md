@@ -1,2 +1,21 @@
-# automated-mock-test-insights-2026
-4. Scroll down  Under Configuration, select: - Add a README file → leave unchecked - Add .gitignore → None - Choose a license → None 5. Click Create repository at the bottom.  Once the repository is created, send me the next screenshot. I'll guide you to upload app.py, mock_test_data.csv, and requirements.txt.
+# Automated Mock Test Insights Engine
+
+A Streamlit-based dashboard for analyzing mock test results, student performance, subject-wise accuracy, and automated study recommendations.
+
+## Features
+- Overall performance dashboard
+- Subject-wise accuracy analysis
+- Student-level analysis
+- Automated study recommendations
+
+## Live App
+https://mock-test-insights.streamlit.app
+
+## How to Run Locally
+1. `pip install -r requirements.txt`
+2. `streamlit run app.py`
+
+## Files
+- `app.py` — Streamlit application
+- `mock_test_data.csv` — Sample mock test dataset
+- `requirements.txt` — Python dependencies
