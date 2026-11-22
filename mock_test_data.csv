@@ -1,0 +1,25 @@
+Student,Test,Subject,Total Questions,Correct,Wrong,Unattempted,Time (min)
+Asha,Test 1,Aptitude,25,18,5,2,30
+Asha,Test 1,Reasoning,20,15,3,2,25
+Asha,Test 1,English,20,17,2,1,20
+Asha,Test 1,Coding,15,8,5,2,30
+Ravi,Test 1,Aptitude,25,14,8,3,35
+Ravi,Test 1,Reasoning,20,12,6,2,30
+Ravi,Test 1,English,20,13,4,3,22
+Ravi,Test 1,Coding,15,6,7,2,35
+Priya,Test 1,Aptitude,25,21,3,1,25
+Priya,Test 1,Reasoning,20,18,1,1,20
+Priya,Test 1,English,20,19,1,0,18
+Priya,Test 1,Coding,15,12,2,1,25
+Asha,Test 2,Aptitude,25,20,3,2,28
+Asha,Test 2,Reasoning,20,17,2,1,23
+Asha,Test 2,English,20,18,1,1,19
+Asha,Test 2,Coding,15,10,3,2,27
+Ravi,Test 2,Aptitude,25,17,5,3,32
+Ravi,Test 2,Reasoning,20,15,3,2,27
+Ravi,Test 2,English,20,16,2,2,21
+Ravi,Test 2,Coding,15,9,4,2,32
+Priya,Test 2,Aptitude,25,22,2,1,24
+Priya,Test 2,Reasoning,20,19,1,0,19
+Priya,Test 2,English,20,20,0,0,17
+Priya,Test 2,Coding,15,13,1,1,23
